@@ -1,0 +1,14 @@
+﻿id;model;year;purchase_price;purchase_date;status;insurance;owner;descriptions
+CAR_01;Kia Optima;2016;1210000.0;;Не активен;-;owner1;-
+CAR_02;Toyota Camry;2017;1892000.0;09.07.2019;Ремонт;-;owner1;-
+CAR_06;Mercedes-Benz C200;2019;2090000.0;04.07.2020;Активен;-;owner1;-
+CAR_07;Toyota Camry;2020;2200000.0;06.03.2021;Активен;-;owner1;-
+CAR_09;BMW 3 Series;2020;3410000.0;22.04.2023;Активен;-;owner1;-
+CAR_05;Tank 300;2021;3630000.0;10.02.2024;Активен;-;owner1;-
+CAR_03;Tank 500;2021;3630000.0;02.07.2024;Активен;-;owner1;-
+CAR_04;Geely Coolray;2022;4114000.0;06.12.2024;Не активен;-;owner1;-
+CAR_10;Geely Atlas;2022;4070000.0;30.07.2025;Не активен;-;owner1;-
+CAR_08;Mercedes-Benz C200;2020;2332000.0;02.08.2022;Активен;-;owner1;-
+CAR_11;Kia Rio;-;2090000.0;;Не активен;-;owner1;-
+CAR_13;Hyundai Creta;-;2156000.0;;Не активен;-;owner1;-
+CAR_12;Hyundai Solaris;-;1628000.0;;Не активен;-;owner1;-
