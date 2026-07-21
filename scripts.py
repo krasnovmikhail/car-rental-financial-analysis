@@ -280,7 +280,7 @@ def build_avg_daily_summary_by_car(
             'План': int(plan_per_day),
             'По договору план': int(payment_per_day),
             'Факт': int(fact_per_day),
-            'Отколнение договоров': payment_dev_pct,
+            'Отклонение договоров': payment_dev_pct,
             'Отклонение факта': fact_dev_pct
         })
 
@@ -319,7 +319,7 @@ def scale_amount(df, column, factor):
         pd.to_numeric(df[column], errors='raise')  # ← ключ
         .mul(factor)
         .round()
-        .astype(int)
+        .astype('Int64')
     )
     return df
 
